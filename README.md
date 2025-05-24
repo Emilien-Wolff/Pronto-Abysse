@@ -3,7 +3,7 @@
 > [!NOTE]
 > Un projet dans le cadre de ma première année en école d'ingénieur visant la conception et fabrication complète d'un drone sous-marin radicommandé
 
-![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Minuto/refs/heads/main/Photos/IMG_6275.JPG)
+![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Pronto-Abysse/refs/heads/main/Photos/IMG_3810.JPG)
 
 ## Objectifs
 
