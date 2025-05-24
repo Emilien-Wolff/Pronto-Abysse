@@ -8,6 +8,7 @@
 ## Objectifs
 
 > Piloter le sous marin à distance et le contrôler (profondeur et déplacement) de manière précise et sans fils
+
 > Transmettre une vidéo en direct à l'utilisateur. Nous prévoyons donc une bascule entre deux flux vidéo : l'un vers l'avant pour le pilotage et l'autre vers le fond pour l'observation
 
 
