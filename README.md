@@ -1,7 +1,7 @@
 
 # Pronto - projet de l'ingénieur dans un monde en transition ⚙️
 > [!NOTE]
-> Un projet dans le cadre de ma première année en école d'ingénieur visant la conception et fabrication complète d'un drone sous-marin radicommandé
+> Un projet dans le cadre de notre première année en école d'ingénieur visant la conception et fabrication complète d'un drone sous-marin radicommandé
 
 ![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Pronto-Abysse/refs/heads/main/Photos/IMG_3810.JPG)
 
