@@ -38,10 +38,6 @@ OUI, Pronto est une unité d'enseignement qui fait partie de la formation d'ing�
 
 Le projet a duré 5 mois, de janvier 2025 à  mi mai 2025
 
-#### T'as fait ça tout seul ??
-
-Pas du tout ! J'ai eu l'occasion de travailler avec des camarades de mon école, une équipe de 6, et ce fut extrêmement enrichissant de collaborer avec eux. Merci Antonin, Pierre, Saad, Thomas et Gautier
-
 ## 🚀 Qui sommes-nous ?
 Nous sommes actuellement en première année d'école d'ingénieur à l'école des Mines IMT Atlantique.
 
