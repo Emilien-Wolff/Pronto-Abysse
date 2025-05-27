@@ -6,7 +6,7 @@ Ce dossier contient les fichiers STL des composants du sous-marin, réalisés av
 
 - **Fichiers `.stl`** : pièces modélisées, qui peuvent s'ouvrir dans n'importe quel trancheur pour impression
 
-📁 *Les impressions 3D ont toutes été faites en PLA, avec un remplissage variant en fonction de l'utilité des pièces. les murs ont notamment été renforcés pour plus de durabilité.*
+📁 *Les impressions 3D ont toutes été faites en PLA, avec un remplissage variant en fonction de l'utilité des pièces. Les murs ont notamment été renforcés pour plus de durabilité.*
 
 ---
 
