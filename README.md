@@ -42,7 +42,7 @@ Le projet a duré 5 mois, de janvier 2025 à  mi mai 2025
 
 Pas du tout ! J'ai eu l'occasion de travailler avec des camarades de mon école, une équipe de 6, et ce fut extrêmement enrichissant de collaborer avec eux. Merci Antonin, Pierre, Saad, Thomas et Gautier
 
-## 🚀 Qui suis-je ?
-Je suis actuellement en première année d'école d'ingénieur à l'école des Mines IMT Atlantique. Je voudrais continuer mon cursus dans l'électronique et les sytèmes embarqués
+## 🚀 Qui sommes-nous ?
+Nous sommes actuellement en première année d'école d'ingénieur à l'école des Mines IMT Atlantique.
 
 
